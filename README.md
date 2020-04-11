@@ -1,3 +1,3 @@
 "# Calculadora" 
 
-Primeiro Exemplo a usar o GIT :)
+Primeiro Exemplo a usar o GIT :) :)
