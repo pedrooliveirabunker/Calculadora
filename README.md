@@ -17,6 +17,7 @@ CMD
 
 *Configuraçoes de cada utilizador*
 git config --global user.name "Pedro Oliveira"
+
 git config --global user.email "Pedro.alex.Oliveira@gmail.com"
 
 Sem o global podemos identificar um só projeto
